@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Supplementary material for Discamps & Dancette (2021) article in *Comptes Rendus Palevol*. 
+# Supplementary material 
+## Discamps & Dancette (2021) article in *Comptes Rendus Palevol*. 
 
 **3D plots of Grotte XVI faunal material (layers B and C):**
 
