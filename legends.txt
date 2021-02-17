@@ -1,7 +1,0 @@
-Grotte XVI (plotted faunal remains): layer B (green) and C (purple) 
-Grotte XVI (plotted faunal remains): layer B (green) and C (purple), sphere size vary according to fragment size
-Grotte XVI (plotted faunal remains): small vertebrate (blue) versus macrofaunal (white) remains
-Grotte XVI (plotted faunal remains): bear (red) versus other macrofaunal (white) remains
-Grotte XVI (plotted faunal remains): reindeer (blue), ibex (pink) and red deer (green) remains
-Grotte XVI (plotted faunal remains): identified herbivore remains (check the top right menu for the color legend)
-Grotte XVI (plotted faunal remains): burnt (black) versur unburnt (white) remains
