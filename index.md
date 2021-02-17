@@ -13,5 +13,9 @@ layout: default
 * [Main herbivores (reindeer, ibex and red deer)](./mainherb.html)
 * [All identified herbivores](./allherb.html)
 * [Burnt bones](./burnt.html)
+* [Abrasion](./abra.html)
+* [Trampling](./tramp.html)
+* [Dendritic etching](./denE.html)
+* [Bone color](./color.html)
 
 Created with [Qgis2threejs plugin (2.5)](https://qgis2threejs.readthedocs.io/en/docs/) and [QGIS Geographic Information System (3.14)](http://qgis.osgeo.org/).
