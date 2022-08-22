@@ -2,7 +2,8 @@
 layout: default
 ---
 # Supplementary Material 
-## Discamps & Dancette (2021) article in *Comptes Rendus Palevol*. 
+## Discamps & Dancette (2022) article in *Comptes Rendus Palevol*.
+DISCAMPS E. & DANCETTE C. 2022. — Étude taphonomique et spatiale des associations de grands mammifères non analogues du Pléistocène supérieur de la Grotte XVI (Dordogne, France). Comptes Rendus Palevol 2022 (27): 551-594. https://doi.org/10.5852/cr-palevol2022v21a27
 
 **3D projections of Grotte XVI faunal material (layers B and C):**
 
